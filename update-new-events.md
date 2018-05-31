@@ -42,3 +42,5 @@ activities of taskforce members, e.g. by following their Twitter accounts.
 The task owner decide on the procedure for gathering news, whether that's a regular slot in the minutes, a channel on slack, 
 by email, on Twitter or whatever. Something shared (minutes/slack) is preferred as this can also help people moderating Twitter 
 or Facebook to advertise the news/events if they weren't aware already.
+
+In terms of scope, for news the idea is to report on the activities of the taskforce. This gives people a quick overview of what we've been up to. News from elsewhere in the R community we'd probably share by Twitter or something rather than put as news.  Events don't have to have a direct link to the taskforce, just be sufficiently relevant. So we might add the women in data science conference, for example, even if no one from the taskforce is planning to go. 
