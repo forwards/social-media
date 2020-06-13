@@ -29,13 +29,14 @@
 ## Following
 
 - Follow related organizations e.g. R-Ladies groups, R User Groups in underserved regions, diversity in tech groups
-- Follow those that follow us if they use their account to share data science/science-related content and there are no red flags
+- Follow those that follow us if they use their account to share data science/science-related content and there are no red flags, e.g. looking like a bot account, inciting hate.
 
 N.B. Currently we are not monitoring new individuals to follow back, this is time-intensive and we have done it periodically.
 
 ## Unfollowing
 
 - Unfollow in rare cases that an account shows evidence of behaviour counter to our mission, e.g. targeting members of under-represented groups
+- Check accounts that unfollow us: this can be a sign of a bot account, or account that is no longer relevant.
 - Criticism of Forwards or other community groups is not necessarily a reason to unfollow. 
 
 *At least two Twitter moderators should agree that unfollowing is necessary*. 
@@ -68,4 +69,5 @@ Muting can be useful to down-weight irrelevant content or accounts that we respe
 
 - Thank people as appropriate
 - Try to avoid getting into Twitter wars
+- Check whether an account is a member of the data science/tech community acting in good faith before responding.
 - Check with other Forwards members how to respond if unsure
