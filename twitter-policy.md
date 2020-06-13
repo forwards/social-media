@@ -5,6 +5,14 @@
 - Clear link to R/data/tech communities
 - Relevant to increasing diversity in R community
 - Supportive and constructive
+- Information/news vs opinion
+    - Generally retweet rather than tweet original content
+    - Summarise key content (e.g. cost, dates) from linked resources
+- Accessible
+    - Add alt text to images/gifs on our own tweets
+    - Add image descriptions/plain text versions to re-tweets
+    - Avoid excessive emoji/emoji where the text alternative is not consistent with the implied meaning, as screen readers read out the description for each one
+    - Do not use fancy fonts as screen readers read out each character    
 
 ## Specific content
 
