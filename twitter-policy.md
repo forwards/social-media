@@ -48,3 +48,24 @@ Blocking can be more helpful than unfollowing as our account will show any block
 - Report the account if the behaviour is abusive.
 
 *At least two Twitter moderators should agree that blocking is necessary*. 
+
+## Muting
+
+Muting can be useful to down-weight irrelevant content or accounts that we respect but that already have a lot of exposure on #rstats Twitter. This will help to surface relevant content from under-represented groups.
+
+- Mute accounts that use clashing hashtags (this can sometimes happen with events)
+- Mute #rstats accounts with especially high follower numbers
+- Mute accounts from respected community members that tweet about non-data science content with high frequency
+
+*At least two Twitter moderators should agree that muting is necessary*. Note that this will affect what other Twitter moderators can see when they are logged in as Forwards!
+
+## Liking
+
+- Like rather than retweet to avoid over-sharing on same topic/from same account
+- Like responses to our tweets/re-tweets
+
+## Replies
+
+- Thank people as appropriate
+- Try to avoid getting into Twitter wars
+- Check with other Forwards memebrs how to respond if unsure
