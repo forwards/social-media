@@ -68,4 +68,4 @@ Muting can be useful to down-weight irrelevant content or accounts that we respe
 
 - Thank people as appropriate
 - Try to avoid getting into Twitter wars
-- Check with other Forwards memebrs how to respond if unsure
+- Check with other Forwards members how to respond if unsure
