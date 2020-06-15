@@ -12,7 +12,10 @@
     - Add alt text to images/gifs on our own tweets
     - Add image descriptions/plain text versions to re-tweets
     - Avoid excessive emoji/emoji where the text alternative is not consistent with the implied meaning, as screen readers read out the description for each one
-    - Do not use fancy fonts as screen readers read out each character    
+    - Do not use fancy fonts as screen readers read out each character
+ - Responsible
+    - Make a timely response to community concerns (e.g. if a community group has concerns about an account that we retweet)
+    - Obtain approval from other organizations or members of the taskforce if you are tweeting news about them/on their behalf (not simply re-tweeting)
 
 ## Specific content
 
@@ -35,7 +38,8 @@ N.B. Currently we are not monitoring new individuals to follow back, this is tim
 
 ## Unfollowing
 
-- Unfollow in rare cases that an account shows evidence of behaviour counter to our mission, e.g. targeting members of under-represented groups
+- Unfollow in rare cases that an account shows evidence of behaviour counter to our mission, e.g. targeting members of under-represented groups.
+    - Consider reverting retweets of tweets from that account
 - Check accounts that unfollow us: this can be a sign of a bot account, or account that is no longer relevant.
 - Criticism of Forwards or other community groups is not necessarily a reason to unfollow. 
 
@@ -46,6 +50,7 @@ N.B. Currently we are not monitoring new individuals to follow back, this is tim
 Blocking can be more helpful than unfollowing as our account will show any blocked accounts and therefore we keep the fact that action was necessary in our institutional memory.
 
 - Block in rare cases that an account shows particularly unpleasant behaviour, e.g. offensive tweets.
+    - Consider reverting retweets of tweets from that account 
 - Report the account if the behaviour is abusive.
 
 *At least two Twitter moderators should agree that blocking is necessary*. 
