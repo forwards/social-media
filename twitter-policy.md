@@ -76,3 +76,4 @@ Muting can be useful to down-weight irrelevant content or accounts that we respe
 - Try to avoid getting into Twitter wars
 - Check whether an account is a member of the data science/tech community acting in good faith before responding.
 - Check with other Forwards members how to respond if unsure
+- *Be careful who is cc'd on replies* - do not add to harm by replying to trolls who have cc'd other people.
