@@ -1,6 +1,6 @@
 # Social Media Policy
 
-Last updated: 2 Aprile 2025
+Last updated: 2 April 2025
 
 This policy lays out some guidelines for managing the Forward's social media accounts (currently Mastodon - bridged to BlueSky - and LinkedIn)
 
